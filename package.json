@@ -5,7 +5,7 @@
   "scripts": {
     "start": "parcel ./src/demo/index.html",
     "build": "tsc",
-    "build-demo": "parcel build ./src/demo/index.html --dist-dir=./demo/",
+    "build-demo": "parcel build ./src/demo/index.html --dist-dir=./docs/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dario Ballerini",
